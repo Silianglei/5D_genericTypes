@@ -21,7 +21,7 @@ in [UserSavedByCompiler](https://github.com/stuyvesant-cs/solutionsHolmes/blob/2
 
 - definition that a class / type that is parameterized by a generic type, `T`:
 ```
-your exemplifying line from the Pair example here
+https://github.com/stuyvesant-cs/skeletonsHolmes/blob/34c2e635cbaebf480a7906aa63c046c4d9253ca7/5D_genericTypes/FibPair/Pair.java#L8
 ```
 in [class](URL)
 
