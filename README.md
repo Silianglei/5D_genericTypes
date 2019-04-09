@@ -21,65 +21,58 @@ in [UserSavedByCompiler](https://github.com/stuyvesant-cs/solutionsHolmes/blob/2
 
 - definition that a class / type that is parameterized by a generic type, `T`:
 ```
-(https://github.com/stuyvesant-cs/skeletonsHolmes/blob/34c2e635cbaebf480a7906aa63c046c4d9253ca7/5D_genericTypes/FibPair/Pair.java#L8)
 ```
-in [class](URL)
+in [class](https://github.com/stuyvesant-cs/skeletonsHolmes/blob/34c2e635cbaebf480a7906aa63c046c4d9253ca7/5D_genericTypes/FibPair/Pair.java#L8)
 
 
 - declaration of a variable that can hold a reference to an instance
 of such a class:
 ```
-(https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/UserOfPair.java#L15)
+
 ```
-in [class](URL)
+in [class](https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/UserOfPair.java#L15)
 
 
 - assignment to such a variable:
 ```
-(https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/UserOfPair.java#L16)
 ```
-in [class](URL)
+in [class](https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/UserOfPair.java#L16)
 
 
 - declaration of a method that returns an instance of such a type:
 ```
-(https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/UserOfPair.java#L30)
 ```
-in [class](URL)
+in [class](https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/UserOfPair.java#L30)
 
 
 - successful instantiation of an instance of such a class:
 ```
-(https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/UserOfPair.java#L46)
+
 ```
-in [class](URL)
+in [class](https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/UserOfPair.java#L46)
 
 
 - *un*successful instantiation of an instance of such a class,
 caught by the compiler:
 ```
-(https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/UserSavedByCompiler.java#L12)
 ```
-in [class](URL)
+in [class](https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/UserSavedByCompiler.java#L12)
 
 
 - a variable that can hold a reference to an instance of the generic type
 in a class / type that is parameterized by a generic type:
 ```
-(https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/Pair.java#L10)
 ```
-in [class](URL)
+in [class](https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/Pair.java#L10)
 
 
 - the declaration of a method or constructor that accepts a parameter of a generic type:
 ```
-(https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/Pair.java#L13)
 ```
-in [class](URL)
+in [class](https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/Pair.java#L13)
 
 
 - the declaration of a method that returns a value of a generic type:
 ```
-(https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/Pair.java#L18)
 ```
-in [class](URL)
+in [class](https://github.com/stuyvesant-cs/solutionsHolmes/blob/650c94c91da1ad1b815e13c35c5816c2419446e5/2019-04-05_PairOfGenerics/Pair.java#L18)
